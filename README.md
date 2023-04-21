@@ -1,6 +1,6 @@
 # lotto
 Lottery statistics global
-lottery stats archive for our app on google play, links below if interested
+Archive stats for our lottery ball machines(digital twins) on google play, links below if interested
 
 US games:
 https://play.google.com/store/apps/details?id=com.NGFILMS.MegaMillionsSim
